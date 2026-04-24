@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://via.placeholder.com/800x200/0a0a1a/4d9fff?text=ABISOFT+STUDIOS" alt="Abisoft Studios Banner" width="100%"/>
+<img src="[https://via.placeholder.com/800x200/0a0a1a/4d9fff?text=ABISOFT+STUDIOS](https://cdn.discordapp.com/attachments/1492014016111968389/1497383215231402044/ChatGPT_Image_Apr_24_2026_05_02_54_PM.png?ex=69ed524a&is=69ec00ca&hm=957655ccae89c2dbeb9d6eec18a676d51bf14da5e431f17f9b48aab6689224f9)" alt="Abisoft Studios Banner" width="100%"/>
 
 # 📦 Abisoft Studios — OpenSource Assets
 ### *Create. Inspire. Entertain.*
