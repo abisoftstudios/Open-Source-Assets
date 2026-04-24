@@ -311,8 +311,7 @@ Never miss a new asset drop:
 | Platform | Link |
 |---|---|
 | 💬 Discord | [Join Server](https://discord.gg/VByUYKDWj9) — bot auto-announces every release |
-| 🎬 YouTube | [Abisoft Studios](https://youtube.com/@OfficialAbisoftFeed
-) |
+| 🎬 YouTube | [Abisoft Studios](https://youtube.com/@OfficialAbisoftFeed) |
 | ⭐ GitHub | Hit **Watch → Releases only** on this repo |
 | 🌐 Website | [Abisoft Studios](https://abisoftstudios.github.io) |
 
