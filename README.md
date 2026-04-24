@@ -322,6 +322,7 @@ Never miss a new asset drop:
 | Role | Name |
 |---|---|
 | 🎨 Founder  | Cody |
+| 📂 OSA Manager  | Jasoft (🤖) |
 | 🤝 Community Contributors | [See Contributors](../../graphs/contributors) |
 
 ---
